@@ -36,7 +36,7 @@ void setup() {
 }
 
 void loop() {
-  setColor(r, g, 0); // Red Color
+  setColor(r, g, 0); 
   // values for acceleration & rotation:
   float xAcc, yAcc, zAcc;
   float xGyro, yGyro, zGyro;
